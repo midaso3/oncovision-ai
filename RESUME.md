@@ -1,6 +1,6 @@
-# MIDASO EDASA BUSHO
+# MIDASO EDESSA BUSHO
 **AI & Computational Biology Enthusiast | Full-Stack & Embedded Systems Developer**  
-📍 Adama, Ethiopia | 📞 +251 0941926004 | ✉️ [emidaso02@gmail.com](mailto:emidaso02@gmail.com)  
+📍 Adama, Ethiopia | 📞 +251 0941926004 | ✉️ [Emidaso02@gmail.com](mailto:Emidaso02@gmail.com)  
 
 ---
 

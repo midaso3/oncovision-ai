@@ -171,7 +171,7 @@ const About = () => {
             </div>
 
             <h1 className="font-display text-3xl sm:text-5xl font-extrabold text-white tracking-tight">
-              Midaso Edasa Busho
+              Midaso Edessa Busho
             </h1>
 
             <p className="font-display text-sm sm:text-base font-semibold text-[var(--accent-teal)] tracking-wide">
@@ -185,11 +185,11 @@ const About = () => {
             {/* Contact Pills */}
             <div className="flex flex-wrap justify-center lg:justify-start gap-3 pt-2">
               <a
-                href="mailto:emidaso02@gmail.com"
+                href="mailto:Emidaso02@gmail.com"
                 className="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-[var(--bg-subcard)] border border-[var(--border-teal)] text-slate-200 hover:text-[var(--accent-teal)] hover:border-[var(--accent-teal)] text-xs sm:text-sm font-medium transition-all"
               >
                 <Mail className="w-4 h-4 text-[var(--accent-teal)]" />
-                <span>emidaso02@gmail.com</span>
+                <span>Emidaso02@gmail.com</span>
               </a>
 
               <a
@@ -218,7 +218,7 @@ const About = () => {
                 </span>
               </Link>
               <a
-                href="mailto:emidaso02@gmail.com"
+                href="mailto:Emidaso02@gmail.com"
                 className="btn-wireframe text-sm"
               >
                 Get in Touch
@@ -434,7 +434,7 @@ const About = () => {
       {/* Project Dedication & APK Submission Notice */}
       <section className="bg-gradient-to-r from-[var(--bg-card-solid)] via-[var(--bg-subcard)] to-[var(--bg-card-solid)] rounded-3xl p-6 sm:p-8 border border-[var(--border-teal)] text-center space-y-3">
         <h3 className="font-display text-lg sm:text-xl font-bold text-white">
-          OncoVision AI • Designed &amp; Engineered by Midaso Edasa Busho
+          OncoVision AI • Designed &amp; Engineered by Midaso Edessa Busho
         </h3>
         <p className="text-xs sm:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
           This full-stack diagnostic system bridges cytological fine-needle aspirate image metrics with Scikit-Learn machine learning classifiers to deliver instant, accessible pathology risk stratification. Developed with precision, care, and a focus on positive healthcare impact.
